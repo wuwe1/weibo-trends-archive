@@ -1,4 +1,4 @@
-name: Scrape Latest Data
+name: Scrape Weibo Data
 
 on:
   push:
