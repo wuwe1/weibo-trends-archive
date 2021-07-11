@@ -3,8 +3,6 @@ name: Scrape Weibo Data
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron:  '12,42 * * * *'
 
 jobs:
   scheduled:
